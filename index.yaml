@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-11T02:31:42.265286089Z"
+    description: A k8s tutorials in https://github.com/guangzhengli/k8s-tutorials
+    digest: 68c612482738d307e0f54bfe7c2d68da5236829946f709b0aecc6c90d740fea5
+    name: hello-helm
+    type: application
+    urls:
+    - https://github.com/zwcclear/helm-charts/releases/download/hello-helm-0.1.0/hello-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-11T02:31:42.265298089Z"
